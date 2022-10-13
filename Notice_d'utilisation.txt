@@ -1,0 +1,4 @@
+Pour mettre en fonction le système, il faut : 
+- Utiliser le script index.py pour éxecuter l'application.
+- éxecuter le script Data_acqui.py en parrallèle de l'application.
+- éxecuter les deux script publication.py et reception.py dans la Raspberry.

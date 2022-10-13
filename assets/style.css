@@ -1,0 +1,195 @@
+/* Style des du bandeau*/
+.banner {
+    height: 75px;
+    margin: 0px -10px 10px;
+    background-color: rgb(255, 255, 255);
+    border-color: red;
+    border-radius: 2px;
+}
+/* Style des balises h2 du bandeau*/
+.banner h2{
+    color: black;
+    padding-top: 10px;
+    margin-left: 2%;
+    display: inline-block;
+}
+
+/* Style des balises h1 du bandeau*/
+.banner h1{
+    position: relative;
+    text-align: center;
+    color: #5848CF;
+    font-size : 25;
+    padding-top: 5px;
+    margin-left: 10%;
+    display: inline-block;
+    font-weight:bold;
+}
+/* Style des image du bandeau*/
+.banner Img{
+    position: relative;
+    float: right;
+    right: 15px;
+    height: 75px;
+}
+
+/* Style du Div du graph*/
+.indicator-box-graph {
+    vertical-align: top;
+    display: inline-block;
+    font-family: sans-serif;
+    color: #303030;
+    padding: 0px;
+    margin: 10px;
+    width: 260px;
+    height = 700px;
+    border-radius: 10px;
+    border: solid 1px #dddddd;
+}
+/* Style du Div de tous les autres div, il s'agit d'un cadre des indicateurs */
+/* indicator-box et indicator-box1 et indicator-box2 on quasiment le même style, la difference est dans qlq parametre */
+.indicator-box {
+    vertical-align: top;
+    display: inline-block;
+    font-family: sans-serif;
+    color: #303030;
+    padding: 0px;
+    margin: 10px;
+    width: 350px;
+    height: auto;
+    border-radius: 10px;
+    border: solid 1px #dddddd;
+}
+.indicator-box1 {
+    vertical-align: top;
+    display: inline-block;
+    font-family: sans-serif;
+    color: #303030;
+    padding: 0px;
+    margin: 10px;
+    width: 450px;
+    height: auto;
+    border-radius: 10px;
+    border: solid 1px #dddddd;
+}
+.indicator-box2 {
+    vertical-align: top;
+    display: inline-block;
+    font-family: sans-serif;
+    color: #303030;
+    padding: 0px;
+    margin: 10px;
+    width: 260px;
+}
+
+
+/* Style du titre de graph */
+.indicator-box-graph h4 {
+    text-align: center;
+    background-color: #f3f3f3;
+    margin: 0px;
+    padding: 10px;
+    font-weight: 200;
+    border-radius: 10px 10px 0px 0px;
+}
+/* Style du titre de l'indicator_box*/
+.indicator-box h4 {
+    text-align: center;
+    background-color: #f3f3f3;
+    margin: 0px;
+    padding: 10px;
+    font-weight: 50;
+    border-radius: 5px 10px 0px 0px;
+}
+.indicator-box1 h4 {
+    text-align: center;
+    background-color: #f3f3f3;
+    margin: 0px;
+    padding: 10px;
+    font-weight: 50;
+    border-radius: 5px 10px 0px 0px;
+}
+.indicator-box2 h4 {
+    text-align: center;
+    background-color: #f3f3f3;
+    margin: 0px;
+    padding: 10px;
+    font-weight: 200;
+    border-radius: 10px 10px 0px 0px;
+}
+.indicator-box > div {
+    margin: 10px;
+}
+.indicator-box1 > div {
+    margin: 10px;
+}
+
+/* Style du Div1*/
+#Div1 {
+    display: inline;
+    width: calc(25% - 50px);
+    min-width: 140px;
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}
+/* style des indicateur de performance et de qualité */
+#indicateur_qualite, #indicateur_performance {
+    margin-bottom: -80px;
+    stroke-width: 30px;
+    text-align: center;
+    margin-top: 0px;
+
+}
+/* style du div du graph */
+#Div_graph {
+    width: 75%;
+    min-width: 600px;
+}
+
+
+/* style de l'indicateur de temperature*/
+#manufacturing_temp {
+    margin-bottom: -10px;
+    margin-left : 50px;
+    margin-right : 50px;
+    margin-top : 40px;
+}
+/* style de l'indicateur de l'humidité*/
+#manufacturing_humi {
+    /*padding-bottom: 30px;*/
+    margin-bottom: 60px;
+    margin-left : 17%;
+
+    margin-top : 50px;
+}
+
+#stop-button > div > button, #nouveau_cycle > div > button {
+    margin-right: 0px !important;
+    width: 100% !important;
+
+}
+#nouveau_cycle > div > button {
+    background-color: blue;
+}
+.app-content {
+    text-align: center;
+}
+
+#num_cycle{
+    margin-bottom: 0px;
+    margin-left : 25px;
+    margin-right : 0px;
+    margin-top : 0px;
+}
+
+
+#cycle_start {
+    text-align: center;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.kKWoYf {
+    color: #303030 !important;
+}
+
