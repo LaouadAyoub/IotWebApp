@@ -10,4 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/96794946/197435276-62eac328-998f-4a57-8ad8-dec27013db50.png" width="700" height="400">
 
-<img src="https://user-images.githubusercontent.com/96794946/197435471-7d4d39a9-829e-41e2-97d7-0792f42d1920.png" width="1000" height="400">
+<img src="https://user-images.githubusercontent.com/96794946/197435687-9700ac72-cfce-4d1a-a094-be2c066ac581.png" width="1200" height="370">
+
+![image](https://user-images.githubusercontent.com/96794946/197435687-9700ac72-cfce-4d1a-a094-be2c066ac581.png)
